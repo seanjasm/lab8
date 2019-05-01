@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.AssemblyInfo.cs
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.deps.json
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.runtimeconfig.json
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.runtimeconfig.dev.json
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.dll
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.pdb
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.dll
+C:\Users\User\source\repos\Week2\Lab8\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.pdb
